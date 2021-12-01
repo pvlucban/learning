@@ -1,4 +1,11 @@
 
 *.cache
-microservice/cqrs/gateway/obj
+microservice/*/*/obj
+microservice/*/*/bin
+csharp-practices/*/*/app/obj
+csharp-practices/*/*/app/bin
+test/telepathy-test/.vs/telepathy-test/xs/UserPrefs.xml
+test/*/*/obj
+test/*/*/bin
 */*/obj
+*/*/bin

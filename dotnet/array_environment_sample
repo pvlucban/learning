@@ -1,0 +1,4 @@
+  // "Serilog:WriteTo:0:Name": "MSSqlServer",
+  // "Serilog:WriteTo:0:Args:tableName": "LogTable",
+  // "Serilog:WriteTo:0:Args:connectionString": "Password=p@ssw0rd;User ID=sa;Initial Catalog=EventManagementDB2;Data Source=localhost",
+  // "Serilog:MinimumLevel": "Warning",
